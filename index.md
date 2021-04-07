@@ -41,10 +41,10 @@
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#board">Board</a>
-          </li><!-- 
+          </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
-          </li> -->
+            <a class="nav-link js-scroll-trigger" href="#donate">Donate</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
           </li>
@@ -286,7 +286,7 @@
   </section> -->
 
   <!-- Call to Action Section -->
-  <section class="page-section bg-dark text-white">
+  <section class="page-section bg-dark text-white" id="donate">
     <div class="container text-center">
       <h2 class="mb-4">Donate Using PayPal</h2>
       <a class="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Donate Now!</a>
