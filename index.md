@@ -163,39 +163,7 @@
         
       </div>
     </div>
-    <div class="container">
-      <h3 class="text-center h4 mb-2">Donation Information</h3>
-      <hr class="divider my-4">
-    <div class="row justify-content-center">
-      
     
-      <p class="text-muted mb-4" style="text-align: justify;">
-        
-        
-      If you desire to support the LaramieCares Foundation’s work in providing</br>
-       a Talk and Text suicide prevention crisis line, our evidence-based Sources of Strength programs</br>
-        in the Albany County, Wyoming schools, or our other suicide prevention efforts.</br>   
-
-        <!-- Use the PayPal information on this website
-
-        or -->
-      
-      </p>
-    <br>
-      
-      
-      
-    </div>
-    <div class="mx-auto" style="width: 200px;">
-      <p class="text-muted " style="text-align: left;"
-        <strong>Mail your donation to:</strong>
-    <address>
-        LaramieCares Foundation<br>
-        1721 Mitchell Street<br>
-        Laramie, WY 82072<br>
-    </address>
-      </p>
-    </div>
   </div>
   </section>
 
@@ -286,6 +254,39 @@
   </section> -->
 
   <!-- Call to Action Section -->
+  <div class="container">
+      <h3 class="text-center h4 mb-2">Donation Information</h3>
+      <hr class="divider my-4">
+    <div class="row justify-content-center">
+      
+    
+      <p class="text-muted mb-4" style="text-align: justify;">
+        
+        
+      If you desire to support the LaramieCares Foundation’s work in providing</br>
+       a Talk and Text suicide prevention crisis line, our evidence-based Sources of Strength programs</br>
+        in the Albany County, Wyoming schools, or our other suicide prevention efforts.</br>   
+
+        <!-- Use the PayPal information on this website
+
+        or -->
+      
+      </p>
+    <br>
+      
+      
+      
+    </div>
+    <div class="mx-auto" style="width: 200px;">
+      <p class="text-muted " style="text-align: left;"
+        <strong>Mail your donation to:</strong>
+    <address>
+        LaramieCares Foundation<br>
+        1721 Mitchell Street<br>
+        Laramie, WY 82072<br>
+    </address>
+      </p>
+    </div>
   <section class="page-section bg-dark text-white" id="donate">
     <div class="container text-center">
       <h2 class="mb-4">Donate Using PayPal</h2>
